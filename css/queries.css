@@ -300,12 +300,12 @@
     }
     
     .hero .hero-content img {
-        width: 65%;
+        width: 25%;
     }
 
     .hero .btn {
         display: block;
-        width: 80%;
+        width: 20%;
         margin: 0 auto;
     }
 
